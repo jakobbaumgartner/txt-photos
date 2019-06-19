@@ -1,2 +1,7 @@
 ﻿  txtphoto.cpp
+c:\users\jakob\documents\github\txt-photos\txtphoto\txtphoto.cpp(61): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
   txtphoto.vcxproj -> C:\Users\Jakob\Documents\GitHub\txt-photos\txtphoto\x64\Debug\txtphoto.exe
