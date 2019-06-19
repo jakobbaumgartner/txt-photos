@@ -1,3 +1,3 @@
 # txt-photos
 
-![Alt text](relative/path/to/cosym.png?raw=true "Title")
+![Alt text](/cosym.png?raw=true "Title")
